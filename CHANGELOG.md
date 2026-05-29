@@ -1,5 +1,29 @@
 # Changelog
 
+## [1.17.3](https://github.com/open-feature/go-sdk/compare/v1.17.2...v1.17.3) (2026-05-29)
+
+
+### 🐛 Bug Fixes
+
+* **event_executor:** update provider status before invoking API-level handlers ([#494](https://github.com/open-feature/go-sdk/issues/494)) ([42d65a5](https://github.com/open-feature/go-sdk/commit/42d65a5132de56e60533df1eb20786a8becac8ac))
+
+
+### 🧹 Chore
+
+* **deps:** replace google-github-actions/release-please-action action with googleapis/release-please-action v3 ([#496](https://github.com/open-feature/go-sdk/issues/496)) ([981609c](https://github.com/open-feature/go-sdk/commit/981609c013997827bba249eb576d4451d08b04b6))
+* **deps:** update actions/cache action to v5 ([#501](https://github.com/open-feature/go-sdk/issues/501)) ([55795e8](https://github.com/open-feature/go-sdk/commit/55795e843ba7b35082bad50181fe92780dce6e42))
+* **deps:** update actions/checkout action to v6 ([#497](https://github.com/open-feature/go-sdk/issues/497)) ([0429a24](https://github.com/open-feature/go-sdk/commit/0429a24cf4491fc2318ae4811ba056b086fd0e3e))
+* **deps:** update actions/setup-go action to v6 ([#498](https://github.com/open-feature/go-sdk/issues/498)) ([d9440cf](https://github.com/open-feature/go-sdk/commit/d9440cf48a7ba382f8c70538b8f297b00c004c4f))
+* **deps:** update codecov/codecov-action action to v6 ([#502](https://github.com/open-feature/go-sdk/issues/502)) ([1322453](https://github.com/open-feature/go-sdk/commit/13224532ef1798f223672d2c107126d0e1633e45))
+* **deps:** update googleapis/release-please-action action to v5 ([#499](https://github.com/open-feature/go-sdk/issues/499)) ([a4354fe](https://github.com/open-feature/go-sdk/commit/a4354fe6ea4cb18b4e02e53df8ff06671e9d2f4c))
+* **deps:** update module golang.org/x/text to v0.37.0 ([#500](https://github.com/open-feature/go-sdk/issues/500)) ([73988c5](https://github.com/open-feature/go-sdk/commit/73988c5227769bf8dfdd007b611b096a330831ed))
+* make govulncheck non-blocking ([#491](https://github.com/open-feature/go-sdk/issues/491)) ([16f2012](https://github.com/open-feature/go-sdk/commit/16f20122e28ba5d34df7ab48854253aab1854d2f))
+
+
+### 📚 Documentation
+
+* fix inaccuracies in README code examples ([#489](https://github.com/open-feature/go-sdk/issues/489)) ([96240cd](https://github.com/open-feature/go-sdk/commit/96240cd58e84d0debe5c7a083d77ccf6a1d6d137))
+
 ## [1.17.2](https://github.com/open-feature/go-sdk/compare/v1.17.1...v1.17.2) (2026-04-03)
 
 
